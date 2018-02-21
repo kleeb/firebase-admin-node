@@ -50,7 +50,7 @@
   "types": "./lib/index.d.ts",
   "dependencies": {
     "@firebase/app": "^0.1.1",
-    "@firebase/database": "git://github.com/firebase/firebase-js-sdk#2e147ff61da8fc7a62c9b72d8e9a7e0c28d862c5",
+    "@firebase/database": "git+https://github.com/firebase/firebase-js-sdk.git#e78411043f424c42505f768d3b8b5890fb5124b8",
     "@google-cloud/firestore": "^0.11.2",
     "@google-cloud/storage": "^1.2.1",
     "@types/google-cloud__storage": "^1.1.1",
